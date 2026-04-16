@@ -55,7 +55,7 @@ python your_file_name.py
 
 ## 📊 Results
 
-* Achieved accuracy: ~60-70% (can be improved with tuning)
+* Achieved accuracy: ~70-80% (can be improved with tuning)
 
 ---
 
